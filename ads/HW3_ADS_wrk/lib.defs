@@ -1,0 +1,4 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE HW3_ADS_lib HW3_ADS_lib
+ASSIGN HW3_ADS_lib libMode shared
